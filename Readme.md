@@ -40,7 +40,7 @@ Pada program ini terdapat empat halaman/page:
 
 ## Dokumentasi
 
-  <video src="tp4dpbo_preview.mp4" controls="controls" style="max-width: 730px;">
+https://github.com/najmharani/TP4DPBO2023C1/assets/90398797/88ac8bca-3182-4934-b043-345100e5d980
 
   <img
   src="ss.png"
